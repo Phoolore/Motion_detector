@@ -5,3 +5,4 @@ logs
 recordings
 venv
 Detector.spec
+__pycache__
