@@ -7,11 +7,9 @@
 
 **Course work dedicated to implementing computer vision methods such as background subtraction and Gaussian Mixture Model (GMM) in a PyQt application.**
 
-Developed by: [**Ilya Potemkin**](https://github.com/Phoolore) & **Arsen Nurimanov**
-
 This application provides a real-time motion detection system with a modern GUI, featuring event-based video recording and automatic storage management.
 
-![Application Screenshot](media/image1.png) *(Примечание: Убедитесь, что путь к скриншоту указан верно, или замените на актуальный из папки `media` вашего проекта)*
+![Application Screenshot](media/interface.png)
 
 ## ✨ Features
 
