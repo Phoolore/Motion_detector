@@ -1,0 +1,7 @@
+build
+dist
+env
+logs
+recordings
+venv
+Detector.spec
