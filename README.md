@@ -86,6 +86,7 @@ This application provides a real-time motion detection system with a modern GUI,
 *   **`LogConsole`:** A custom logging handler that redirects log messages to a `QPlainTextEdit` widget in the GUI.
 *   **`VideoDisplay`:** A `QLabel` subclass optimized for displaying OpenCV video frames.
 
+
 ## 🤝 Contributing
 
 This was a course project, but suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
